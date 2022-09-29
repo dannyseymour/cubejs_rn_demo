@@ -16,7 +16,7 @@
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-navigation": "^3.8.1",
-    "victory-native": "^33.0.1",
+    "victory-native": "^36.6.8",
     "yarn": "^1.21.0"
   },
   "devDependencies": {
